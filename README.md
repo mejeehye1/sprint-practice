@@ -1,1 +1,1 @@
-# sprint-practice
+# sprint-practice-project
