@@ -18,6 +18,6 @@ $ python main.py
 ```
 
 ```python
-def hello(name);
+def hello(name):
  return f"hello, {name}"
 ```
